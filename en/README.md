@@ -12,7 +12,7 @@
 
 ## Module Purpose 
 
-This module is for .....
+**XoopsInfo** is an administration module that provides a bit of useful administrative information to your fingertips. Every site should have access to this information. It also has a rescue capability.
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the XoopsInfo Module (Admin side)*
