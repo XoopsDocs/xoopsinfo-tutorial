@@ -31,3 +31,7 @@ Let's go and review the individual Tabs:
 ![](../assets/image011.png)
 
 
+![](../assets/image012.png)
+
+
+![](../assets/image013.png)
