@@ -23,7 +23,8 @@ The script comes from: https://github.com/phpsysinfo/phpsysinfo
 
 ![](../assets/image007.png)
 
-The security information comes from 
+**PhpSecInfo** provides an equivalent to the phpinfo() function that reports security information about the PHP environment, and offers suggestions for improvement.
+The script comes from https://github.com/funkatron/phpsecinfo, but unfortunately, it was not updated for many years, so the information is definitely outdated. 
 
 ![](../assets/image008.png)
 
