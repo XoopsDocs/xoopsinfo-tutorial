@@ -19,7 +19,7 @@ MySQL database info
 ![](../assets/image006.png)
 
 **phpSysInfo** is a customizable PHP script that displays very nicely information about your system.  
-The script comes from: https://github.com/phpsysinfo/phpsysinfo
+The script comes from: https://github.com/phpsysinfo/phpsysinfo, and is constantly updated! 
 
 ![](../assets/image007.png)
 
