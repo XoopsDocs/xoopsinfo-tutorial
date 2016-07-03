@@ -1,7 +1,7 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](en/assets/logoXoops.jpg)
 
-# Module XXX
+# Module XoopsInfo
 #### for XOOPS 2.5.8
       
 ![logoModule.png](en/assets/logoModule.png)
