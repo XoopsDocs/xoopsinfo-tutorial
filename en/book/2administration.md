@@ -25,6 +25,7 @@ The script comes from: https://github.com/phpsysinfo/phpsysinfo
 
 **PhpSecInfo** provides an equivalent to the phpinfo() function that reports security information about the PHP environment, and offers suggestions for improvement.
 The script comes from https://github.com/funkatron/phpsecinfo, but unfortunately, it was not updated for many years, so the information is definitely outdated. 
+Slighty newer version is on: https://github.com/robocoder/phpsecinfo
 
 ![](../assets/image008.png)
 
